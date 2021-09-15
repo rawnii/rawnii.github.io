@@ -1,7 +1,6 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    color: seagreen;
+    font-family: MSS, BSS, sans-serif;
+    background-color: black;
+    color: #FF0099;
+    text-align: center;
 }

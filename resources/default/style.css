@@ -1,0 +1,66 @@
+/* importing the default css for the site */
+
+@import "default.css";
+
+/* Fonts */
+table,
+td {
+    border: 1px solid #333;
+    font-size: 25px;
+}
+
+thead {
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+
+/* Colors */
+
+#BT {
+    color: black;
+}
+
+#WT {
+    color: white;
+}
+
+#BB {
+    background-color: black;
+}
+
+#WB {
+    background-color: white;
+}
+
+.examples {
+    color: grey;
+    background-color:grey;
+}
+
+.colorA {
+    color: #B31272;
+    background-color: #B31272;
+}
+
+.colorB {
+    color: #FFE019;
+    background-color: #FFE019;
+}
+
+.colorC {
+    color: #FF0099;
+    background-color: #FF0099;
+}
+
+.colorD {
+    color: #19EFFF;
+    background-color: #19EFFF;
+}
+
+.colorE {
+    color: #09A7B3;
+    background-color: #09A7B3;
+}

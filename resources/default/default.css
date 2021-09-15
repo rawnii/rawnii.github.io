@@ -1,0 +1,94 @@
+/* importing the othe stylesheet defs */
+
+@import "color.css";
+@import "font.css";
+
+
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: MSS, BSS, sans-serif;
+}
+
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: larger;
+}
+
+h4 {
+    font-size: large;
+}
+
+h5 {
+    font-size: medium;
+}
+
+h6 {
+    font-size: smaller;
+}
+
+/* Fonts */
+
+#MSS {
+    font-family: MSS;
+}
+
+#MS {
+    font-family: MS;
+}
+
+#BSS {
+    font-family: BSS;
+}
+
+#BS {
+    font-family: BS;
+}
+
+/* Links */
+
+a {
+    text-decoration: none;
+    color: #FF0099;
+}
+
+a:active {
+    color:#09A7B3
+}
+
+a:visited {
+    color: #B31272;
+}
+
+a.MPL {
+    color: #19EFFF;
+}
+
+a.MPL:visited {
+    color: #09A7B3;
+}
+
+/* Nav Bar */
+
+.Nav li{
+    display: inline;
+    border: 3px solid #19EFFF;
+    padding: 9px;
+    text-align: center;
+    border-radius: 80%;
+    box-shadow: 3px 5px #09A7B3;
+    background-color: black;
+}
