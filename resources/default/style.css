@@ -14,6 +14,13 @@ thead {
     color: #fff;
 }
 
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
 
 
 
