@@ -96,6 +96,10 @@ header {
   border: 1px solid #FF0099;
 }
 
+#human-guess {
+  
+}
+
 .guess input {
   height: 90px;
   width: 90px;
