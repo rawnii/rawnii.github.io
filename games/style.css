@@ -1,3 +1,21 @@
+@import "../resources/default/default.css";
+@import "../resources/css/index.css";
+
+#main {
+    background-color: transparent;
+    background: transparent;
+    position: fixed;
+    width: 100%;
+    top: 0
+}
+
+body {
+    background-color: black;
+    z-index: -3;
+    margin: 0 0 0 0;
+}
+
+
 .gamesNav {
     width: 100%;
     height: 300px;
@@ -19,9 +37,7 @@
     text-align: center;
     border-radius: 80%;
     box-shadow: 3px 5px #09A7B3;
-    background-color: black;
+    background-color: transparent;
+    background: transparent;
 }
 
-.gameButton {
-    
-}
